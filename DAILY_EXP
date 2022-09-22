@@ -16,7 +16,7 @@ class Palindrome{
       sum=(sum*10)+r;    
       n=n/10;                               
   }
-     if(temp==sum)                       //check wheteher condition is palindrome or not 
+     if(temp==sum)                       //check wether condition is palindrome or not 
     	 System.out.println("Palindrome Number!!!");
      else
     	 System.out.println("Not Palindrome!!!!");    
